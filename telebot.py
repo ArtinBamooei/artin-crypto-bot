@@ -14,7 +14,7 @@ logging.basicConfig(
 )
 
 # توکن ربات تلگرام شما
-API_TOKEN = "7798034460:AAHeu_ehv0GE7EyesY7QBORj_wQfCrE4M98"
+API_TOKEN = "========"
 
 # آدرس API بایننس برای دریافت قیمت ارز دیجیتال
 BINANCE_API_URL = 'https://api.binance.com/api/v3/ticker/price?symbol={}'
